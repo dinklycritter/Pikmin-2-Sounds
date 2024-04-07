@@ -1,0 +1,10 @@
+{
+  "name": "Pikmin 2 Sounds",
+  "description": "pikmin like, idk, calming, semi sci-fi.",
+  "author": "dinklycritter",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
